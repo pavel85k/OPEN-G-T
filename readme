@@ -1,0 +1,20 @@
+OPEN-G-T is a local, Python-based AI character system powered by Ollama.
+It serves as an open-source alternative to Character.AI, featuring offline operation, full user control, and a lightweight modding system for customizing AI behavior via text files.
+
+
+⚙️ Основные фишки
+🧠 Локальный AI (через Ollama)
+→ работает без интернета
+→ никакой отправки данных
+🎭 Система персонажей (через моды)
+→ создаёшь .txt файл
+→ меняешь характер, стиль, поведение
+🔓 Без ограничений
+→ нет фильтров как в Character.AI
+→ полный контроль
+🧩 Мод-система (Mod Loader)
+→ закинул файл → применилось
+→ можно менять что угодно
+🐍 Python-основа
+→ легко расширять
+→ удобно для разработчиков
